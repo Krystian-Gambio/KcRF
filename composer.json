@@ -1,0 +1,12 @@
+{
+    "name": "gambio/responsive-filemanager-fork",
+    "description": "ResponsiveFilemanager, which includes internal adjustments in order to work correctly with the Gambio Shop software",
+    "require": {
+	    "php": ">=7.1"
+    },
+	"autoload": {
+		"psr-4": {
+			"FileManager\\": "./"
+		}
+	}
+}
